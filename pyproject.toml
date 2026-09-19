@@ -1,0 +1,27 @@
+[project]
+name = "ds-lines"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "sridhar5bfttl", email = "sridhar.nalla@5bfttl.onmicrosoft.com" }
+]
+requires-python = ">=3.11"
+dependencies = [
+    "ipykernel>=7.3.0",
+    "numpy>=2.4.6",
+    "pandas>=3.0.6",
+    "plotly>=7.1.0",
+    "scikit-learn>=1.9.1",
+    "nbformat>=4.2.0",
+    "notebook>=7",
+    "ipywidgets>=8.1.9",
+    "anywidget>=0.11.0",
+]
+
+[project.scripts]
+ds-lines = "ds_lines:main"
+
+[build-system]
+requires = ["uv_build>=0.12.3,<0.13.0"]
+build-backend = "uv_build"
