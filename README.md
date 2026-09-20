@@ -13,6 +13,8 @@ uv run jupyter notebook
 
 Open a notebook from the list below and select **Run → Run All Cells**, or use **Shift + Enter** to run cells in order. Each notebook runs independently. The plots include sliders or dropdowns; hover for values and double-click a plot to reset its zoom. Read the prediction prompts before moving the controls.
 
+Each notebook is also structured for live teaching: it includes a 50–70 minute delivery plan, six core or discussion exercises, two stretch challenges, and an instructor debrief with expected reasoning and misconceptions. Learners use the pattern **prediction → action or calculation → evidence → explanation** rather than only observing a completed demonstration.
+
 If you use VS Code, select this project's `.venv` Python interpreter as the notebook kernel. Some previews show only text or static output; use a running Jupyter Notebook session to explore all charts.
 
 ## Available notebooks

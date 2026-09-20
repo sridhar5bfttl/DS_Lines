@@ -84,6 +84,18 @@ Use the existing Python environment and dependencies where practical: NumPy and 
 - Organize notebooks into focused sections with reusable helpers where needed. Keep essential explanations visible without requiring a widget interaction.
 - Inspect existing notebooks before editing and preserve relevant work. Extend the existing `lines.ipynb` narrative where appropriate; use focused additional notebooks when the requested topic would overwhelm it.
 
+## Workshop exercise standard
+
+Treat a notebook as a teachable workshop unit rather than only a demonstration. Include:
+
+- a delivery plan with an opening question, three observable learning outcomes, and suggested timing;
+- at least six topic-specific exercises, with the first four suitable as core work and later exercises suitable for pairs or discussion;
+- at least two stretch challenges that require transfer, design, or critique rather than repeating the demonstrated calculation;
+- an instructor debrief with expected reasoning, evidence to request from learners, and a common misconception to surface;
+- prompts that require learners to record **prediction → action or calculation → evidence → explanation**.
+
+Mix exercise types across prediction, hand calculation, control manipulation, diagnosis, method comparison, and an applied decision. Avoid questions answerable only by copying nearby prose. A convincing answer should identify what changed, what stayed fixed, cite a visible value, boundary, or metric, and state one limit on the conclusion.
+
 ## Completion checks
 
 For notebook work, run affected examples and verify that controls change the intended outputs. For a new notebook or changes to shared setup, restart the kernel and run all cells in order. Check that numerical examples support the written claims, comparisons are fair, and explanations match displayed results. Report any runtime or rendering limitations that prevented verification.
