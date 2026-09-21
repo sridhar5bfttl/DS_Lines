@@ -1,0 +1,6 @@
+Visual ML Learning # 
+https://ml-visualized.com/chapter1/linear_regression.html
+https://mlu-explain.github.io/linear-regression/
+https://www.tensorflow.org/tensorboard/hyperparameter_tuning_with_hparams
+https://shap.readthedocs.io/en/latest/example_notebooks/overviews/Explaining%20quantitative%20measures%20of%20fairness.html
+https://www.scikit-yb.org/en/latest/oneliners.html
