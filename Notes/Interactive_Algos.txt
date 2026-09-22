@@ -4,3 +4,6 @@ https://mlu-explain.github.io/linear-regression/
 https://www.tensorflow.org/tensorboard/hyperparameter_tuning_with_hparams
 https://shap.readthedocs.io/en/latest/example_notebooks/overviews/Explaining%20quantitative%20measures%20of%20fairness.html
 https://www.scikit-yb.org/en/latest/oneliners.html
+
+
+https://matlabacademy.mathworks.com/v1/portal.html?course=machinelearning#chapter=5v1&lesson=3&section=1
